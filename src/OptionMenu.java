@@ -1,11 +1,11 @@
+/* Main Class
+@Author Yu Lin - CSCI 185 - SPRING 2015 - ATM Project */
+
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.Scanner;
-
-/* Option Menu
-@Author Yu Lin - CSCI 185 - SPRING 2015 - ATM Project */
 
 public class OptionMenu extends Account {
 	Scanner menuInput = new Scanner(System.in);
